@@ -1,0 +1,7 @@
+[
+    { "fortune": "大吉", "type": "good" },
+    { "fortune": "中吉", "type": "normal" },
+    { "fortune": "小吉", "type": "normal" },
+    { "fortune": "凶", "type": "bad" }
+]
+
